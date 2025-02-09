@@ -1,0 +1,15 @@
+[book]
+authors = ["trisua"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Neospring Staff Handbook"
+
+[output.html]
+default-theme = "rust"
+preferred-dark-theme = "coal"
+git-repository-url = "https://github.com/swmff/neospring_staff_handbook"
+edit-url-template = "https://github.com/swmff/neospring_staff_handbook/edit/main/{path}"
+site-url = "neospring_staff_handbook"
+
+[preprocessor.alerts]
